@@ -314,12 +314,7 @@ Object representing a parameter value.
 <a name="new_module_Sway..Path_new"></a>
 
 #### new Path(api, path, definition, definitionFullyResolved, pathToDefinition)
-The Path object.
-
-**Note:** Do not use directly.
-
-**Extra Properties:** Other than the documented properties, this object also exposes all properties of the
-                      definition object.
+The Path object.**Note:** Do not use directly.**Extra Properties:** Other than the documented properties, this object also exposes all properties of the                      definition object.
 
 
 | Param | Type | Description |
@@ -336,8 +331,7 @@ The Path object.
 Return the operation for this path and operation id or method.
 
 **Kind**: instance method of <code>[Path](#module_Sway..Path)</code>  
-**Returns**: <code>[Array.&lt;Operation&gt;](#module_Sway..Operation)</code> - The `Operation` objects for this path and method or `undefined` if there is no
-                                   operation for the provided method  
+**Returns**: <code>[Array.&lt;Operation&gt;](#module_Sway..Operation)</code> - The `Operation` objects for this path and method or `undefined` if there is no                                   operation for the provided method  
 
 | Param | Type | Description |
 | --- | --- | --- |
